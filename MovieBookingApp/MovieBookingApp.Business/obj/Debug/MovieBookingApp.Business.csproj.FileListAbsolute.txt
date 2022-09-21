@@ -1,0 +1,22 @@
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Business.pdb
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\Dapper.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Data.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Data.pdb
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\Dapper.xml
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.CopyComplete
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Business.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\Dapper.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Data.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\MovieBookingApp.Data.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\bin\Debug\Dapper.xml
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.csproj.CopyComplete
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.Business\obj\Debug\MovieBookingApp.Business.pdb

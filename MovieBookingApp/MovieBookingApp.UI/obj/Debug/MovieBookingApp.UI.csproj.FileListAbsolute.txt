@@ -1,0 +1,30 @@
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.exe.config
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.exe
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.pdb
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\Dapper.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Data.dll
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Business.pdb
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Data.pdb
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\Dapper.xml
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.CopyComplete
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.exe
+C:\Users\Admin\Documents\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.exe.config
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.exe
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.UI.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\Dapper.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Business.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Data.dll
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Business.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\Dapper.xml
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\bin\Debug\MovieBookingApp.Data.pdb
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.csproj.CopyComplete
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.exe
+C:\Users\Admin\Documents\.NET Framework\DB\MovieBookingApp\MovieBookingApp.UI\obj\Debug\MovieBookingApp.UI.pdb
