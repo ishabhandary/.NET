@@ -1,0 +1,9 @@
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\bin\Debug\AIRecommendation.DataCache.dll
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\bin\Debug\AIRecommendation.DataCache.pdb
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\bin\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\bin\Debug\AIRecommendation.DataLoader.pdb
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\obj\Debug\AIRecommendation.DataCache.csproj.AssemblyReference.cache
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\obj\Debug\AIRecommendation.DataCache.csproj.CoreCompileInputs.cache
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\obj\Debug\AIRecommendation.DataCache.csproj.CopyComplete
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\obj\Debug\AIRecommendation.DataCache.dll
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataCache\obj\Debug\AIRecommendation.DataCache.pdb

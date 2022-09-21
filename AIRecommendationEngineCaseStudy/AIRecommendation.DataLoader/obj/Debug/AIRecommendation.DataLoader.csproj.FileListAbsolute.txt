@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.pdb
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.pdb
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\bin\Debug\AIRecommendation.DataLoader.pdb
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.AssemblyReference.cache
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.dll
+C:\Users\Admin\AIRecommendationEngineCaseStudy\AIRecommendation.DataLoader\obj\Debug\AIRecommendation.DataLoader.pdb

@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 1 - Recommender", "Module 1 - Recommender", "{CCF0BBD6-DFF5-4C0C-B792-B9BFA4164D7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 2 - DataLoader", "Module 2 - DataLoader", "{8D5354CE-30C9-43CA-BB29-0FC3F23BDAD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 3 - RatingsAggregator", "Module 3 - RatingsAggregator", "{970CD4B4-38C8-4D95-8748-6B099A3D89AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 4 - AIRecommendationEngine", "Module 4 - AIRecommendationEngine", "{F6A21A85-5110-4C46-BDFD-E0B8BB2269E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.Recommender", "AIRecommendation.Recommender\AIRecommendation.Recommender.csproj", "{89879771-D23B-4F5A-BE03-5029617B5015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.UI", "AIRecommendation.UI\AIRecommendation.UI.csproj", "{AB50454B-9D7A-461D-B13D-932DF6908A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommenderUnitTest", "AIRecommenderUnitTest\AIRecommenderUnitTest.csproj", "{0001F522-E918-454E-BE73-5B2D70A0F05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.DataLoader", "AIRecommendation.DataLoader\AIRecommendation.DataLoader.csproj", "{5A933F7D-4F57-491E-AE73-E0365149201D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.RatingsAggregator", "AIRecommendation.RatingsAggregator\AIRecommendation.RatingsAggregator.csproj", "{511EDF41-CEC1-40AD-AAE4-10C472838B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.RecommendationEngine", "AIRecommendation.RecommendationEngine\AIRecommendation.RecommendationEngine.csproj", "{81100C88-0802-42C0-89C5-333ACE684E88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 5 - Data Cache", "Module 5 - Data Cache", "{F427FA78-0E75-4B42-ABAA-8A236597AE0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIRecommendation.DataCache", "AIRecommendation.DataCache\AIRecommendation.DataCache.csproj", "{82A5B5B4-B382-46E6-B730-3C7001AF1B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89879771-D23B-4F5A-BE03-5029617B5015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89879771-D23B-4F5A-BE03-5029617B5015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89879771-D23B-4F5A-BE03-5029617B5015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89879771-D23B-4F5A-BE03-5029617B5015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50454B-9D7A-461D-B13D-932DF6908A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50454B-9D7A-461D-B13D-932DF6908A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50454B-9D7A-461D-B13D-932DF6908A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50454B-9D7A-461D-B13D-932DF6908A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0001F522-E918-454E-BE73-5B2D70A0F05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0001F522-E918-454E-BE73-5B2D70A0F05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0001F522-E918-454E-BE73-5B2D70A0F05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0001F522-E918-454E-BE73-5B2D70A0F05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A933F7D-4F57-491E-AE73-E0365149201D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A933F7D-4F57-491E-AE73-E0365149201D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A933F7D-4F57-491E-AE73-E0365149201D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A933F7D-4F57-491E-AE73-E0365149201D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{511EDF41-CEC1-40AD-AAE4-10C472838B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511EDF41-CEC1-40AD-AAE4-10C472838B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511EDF41-CEC1-40AD-AAE4-10C472838B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511EDF41-CEC1-40AD-AAE4-10C472838B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81100C88-0802-42C0-89C5-333ACE684E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81100C88-0802-42C0-89C5-333ACE684E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81100C88-0802-42C0-89C5-333ACE684E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81100C88-0802-42C0-89C5-333ACE684E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A5B5B4-B382-46E6-B730-3C7001AF1B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A5B5B4-B382-46E6-B730-3C7001AF1B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A5B5B4-B382-46E6-B730-3C7001AF1B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A5B5B4-B382-46E6-B730-3C7001AF1B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89879771-D23B-4F5A-BE03-5029617B5015} = {CCF0BBD6-DFF5-4C0C-B792-B9BFA4164D7A}
+		{0001F522-E918-454E-BE73-5B2D70A0F05E} = {CCF0BBD6-DFF5-4C0C-B792-B9BFA4164D7A}
+		{5A933F7D-4F57-491E-AE73-E0365149201D} = {8D5354CE-30C9-43CA-BB29-0FC3F23BDAD5}
+		{511EDF41-CEC1-40AD-AAE4-10C472838B10} = {970CD4B4-38C8-4D95-8748-6B099A3D89AA}
+		{81100C88-0802-42C0-89C5-333ACE684E88} = {F6A21A85-5110-4C46-BDFD-E0B8BB2269E2}
+		{82A5B5B4-B382-46E6-B730-3C7001AF1B5C} = {F427FA78-0E75-4B42-ABAA-8A236597AE0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57F059A6-21CF-4C95-AC75-F7CB687F75C5}
+	EndGlobalSection
+EndGlobal

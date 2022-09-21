@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\bin\Debug\AIRecommendation.Recommender.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\bin\Debug\AIRecommendation.Recommender.pdb
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\obj\Debug\AIRecommendation.Recommender.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\obj\Debug\AIRecommendation.Recommender.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\obj\Debug\AIRecommendation.Recommender.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommendation.Recommender\obj\Debug\AIRecommendation.Recommender.pdb

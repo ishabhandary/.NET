@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\AIRecommenderUnitTest.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\AIRecommenderUnitTest.pdb
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\obj\Debug\AIRecommenderUnitTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\obj\Debug\AIRecommenderUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\obj\Debug\AIRecommenderUnitTest.csproj.CopyComplete
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\obj\Debug\AIRecommenderUnitTest.dll
+C:\Users\Admin\Documents\AIRecommendationEngineCaseStudy\AIRecommenderUnitTest\obj\Debug\AIRecommenderUnitTest.pdb
